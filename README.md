@@ -28,7 +28,7 @@ List the main features of your Travel page. This could include things like:
 
 ## Installation
 
-- git clone https://github.com/your-username/travel-page.git
+- git clone [https://github.com/your-username/travel-page.git](https://github.com/VardanArzumanyan/Travel-Page.git)
 
 
 ## Usage
